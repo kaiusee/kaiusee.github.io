@@ -1,3 +1,4 @@
 # Kais K. GitHub
-Links to the repos i have
-  - UIColor Converter https://kaiusee.github.io/uicolor-converter/
+## My Repos
+  - UIColor Converter: https://github.com/kaiusee/uicolor-converter
+  - KKRateMyApp for Swift: https://github.com/kaiusee/KKRateMyApp
